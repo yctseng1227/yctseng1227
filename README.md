@@ -2,9 +2,7 @@
 
 **I am a newbie in information security research.**
 
-![](https://github-readme-stats.vercel.app/api?username=yctseng1227&theme=onedark&show_icons=true)
 
-![profile views](https://komarev.com/ghpvc/?username=yctseng1227)
 
 <!--
 **yctseng1227/yctseng1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
